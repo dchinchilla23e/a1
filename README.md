@@ -73,4 +73,4 @@ install npm firebase --save
 npm install react-hook-form
 npm install formik --save  
 Nota:
-no se alcanza a generar la conectividad al backend , pero se dejo la configuracion de la api en el archivo firebase 
+no se alcanza a generar la conectividad al backend , pero se dejo la configuracion de la api en el archivo firebase # prueba-diego
